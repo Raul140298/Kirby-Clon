@@ -1,2 +1,2 @@
 # KirbyClon
-Clon de Kirby para Talleres
+Clon de mecánicas básicas de Kirby.
